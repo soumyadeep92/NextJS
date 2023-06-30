@@ -1,0 +1,1 @@
+{"c":["pages/index","webpack"],"r":["pages/product/[productId]"],"m":["./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?absolutePagePath=D%3A%5CNextJS%5Chello-world%5Cpages%5Cproduct%5C%5BproductId%5D%5Cindex.js&page=%2Fproduct%2F%5BproductId%5D!","./pages/product/[productId]/index.js"]}
